@@ -16,7 +16,6 @@ function Home() {
 
     <div>
    <div className="App">
-
         <Header/>
     </div>
     
